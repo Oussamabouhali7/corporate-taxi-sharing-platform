@@ -90,20 +90,3 @@ npm start
 cd ../mobile
 npm install
 npx expo start
-
-<img width="1365" height="782" alt="Graphique en anneau" src="https://github.com/user-attachments/assets/94ba2259-c7e9-46be-978f-392e909126d8" />
-
-<img width="1367" height="750" alt="Graphique" src="https://github.com/user-attachments/assets/1ae31e4b-fe27-46fc-938d-b21ce702e845" />
-
-<img width="1376" height="773" alt="Histogramme" src="https://github.com/user-attachments/assets/6f3a025e-0401-4376-aa68-331d9ea7c9d3" />
-
-<img width="1375" height="747" alt="Nuage de points détaillés" src="https://github.com/user-attachments/assets/14e9bc31-7dba-4c4b-89ff-c01cc2507c62" />
-
-<img width="1280" height="691" alt="Carte" src="https://github.com/user-attachments/assets/c9e58b99-1298-4184-8498-0787ebab6e72" />
-<img width="1381" height="763" alt="Nuage de points" src="https://github.com/user-attachments/assets/8cc38dbb-b262-456a-a2bf-ae272b75bb26" />
-
-
-
-
-
-
