@@ -12,7 +12,7 @@ The platform provides a comprehensive dashboard for administrators to visualize 
 
 | Map Distribution | Cost Analysis | Client Analytics | Clustering Insights |
 |---|---|---|---|
-| ![Map](images/map.png) | ![Costs](images/coût.png) | ![Clients](images/clients.png) | ![Clusters](images/clusters-trajet.png) |
+| ![Map](images/map.png) | ![Costs](images/coûts.png) | ![Clients](images/clients.png) | ![Clusters](images/clusters-trajet.png) |
 
 ---
 
