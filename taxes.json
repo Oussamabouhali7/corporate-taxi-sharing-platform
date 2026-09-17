@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "6283dc31d8e1b08fb1d5a40f"
+  },
+  "firstname": "oussama",
+  "lastname": "haggi",
+  "mobileNumber": 99669933,
+  "mail": "haggi@gmail.com",
+  "password": "Ouss123",
+  "modelVoiture": "301",
+  "matriculeNumber": "222TU222",
+  "cin": 14235892,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283dc43d8e1b08fb1d5a411"
+  },
+  "firstname": "Sami",
+  "lastname": "telach",
+  "mobileNumber": 99669933,
+  "mail": "telach@gmail.com",
+  "password": "Sam123",
+  "modelVoiture": "Polo6",
+  "matriculeNumber": "133TU133",
+  "cin": 14501455,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283dc8c0e0c281f74974af8"
+  },
+  "firstname": "Karim",
+  "lastname": "nelaa",
+  "mobileNumber": 99587410,
+  "mail": "nelaah@gmail.com",
+  "password": "Nelaa123",
+  "modelVoiture": "Golf5",
+  "matriculeNumber": "115TU115",
+  "cin": 14505555,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283dcac0e0c281f74974afa"
+  },
+  "firstname": "Salah",
+  "lastname": "Belgacem",
+  "mobileNumber": 98000410,
+  "mail": "salah@gmail.com",
+  "password": "Salah123",
+  "modelVoiture": "seat",
+  "matriculeNumber": "120TU120",
+  "cin": 10055555,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283dcca0e0c281f74974afc"
+  },
+  "firstname": "Samir",
+  "lastname": "Kerni",
+  "mobileNumber": 25212100,
+  "mail": "samir@gmail.com",
+  "password": "samir123",
+  "modelVoiture": "fiat",
+  "matriculeNumber": "155TU155",
+  "cin": 12314585,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283dcf20e0c281f74974afe"
+  },
+  "firstname": "Anis",
+  "lastname": "Lebi",
+  "mobileNumber": 25000241,
+  "mail": "lebi@gmail.com",
+  "password": "lebi123",
+  "modelVoiture": "kia",
+  "matriculeNumber": "158TU1550",
+  "cin": 1004585,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283dd150e0c281f74974b00"
+  },
+  "firstname": "Kais",
+  "lastname": "Maaji",
+  "mobileNumber": 20666441,
+  "mail": "maaji@gmail.com",
+  "password": "maaji123",
+  "modelVoiture": "ford",
+  "matriculeNumber": "166TU166",
+  "cin": 14444444,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283dd260e0c281f74974b02"
+  },
+  "firstname": "hafedth",
+  "lastname": "hater",
+  "mobileNumber": 55213232,
+  "mail": "hater@gmail.com",
+  "password": "hater123",
+  "modelVoiture": "toyota",
+  "matriculeNumber": "140TU140",
+  "cin": 10335517,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283dd451588a39c20d7672b"
+  },
+  "firstname": "Omar",
+  "lastname": "matoui",
+  "mobileNumber": 95953232,
+  "mail": "matoui@gmail.com",
+  "password": "matoui123",
+  "modelVoiture": "toyota",
+  "matriculeNumber": "142TU142",
+  "cin": 14100000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283dd6d1588a39c20d7672d"
+  },
+  "firstname": "chedly",
+  "lastname": "feggi",
+  "mobileNumber": 20114477,
+  "mail": "feggi@gmail.com",
+  "password": "feggi123",
+  "modelVoiture": "hyundai",
+  "matriculeNumber": "214TU214",
+  "cin": 15522011,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283dd8a1588a39c20d7672f"
+  },
+  "firstname": "mohsen",
+  "lastname": "harich",
+  "mobileNumber": 29225507,
+  "mail": "harich@gmail.com",
+  "password": "harich123",
+  "modelVoiture": "208",
+  "matriculeNumber": "227TU2224",
+  "cin": 11234011,
+  "__v": 0
+}]

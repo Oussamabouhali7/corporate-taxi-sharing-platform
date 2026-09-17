@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "6283d67a6c9232e3b663369d"
+  },
+  "firstname": "oussama",
+  "lastName": "akermi",
+  "mobileNumber": 50505505,
+  "mail": "oussama.akermi@gmail.com",
+  "password": "Oussama123",
+  "entrepriseId": "123a",
+  "departement": "Finance",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283d9066c9232e3b663369f"
+  },
+  "firstname": "Amine",
+  "lastName": "Akcha",
+  "mobileNumber": 20202020,
+  "mail": "amine.akcha@gmail.com",
+  "password": "Amine123",
+  "entrepriseId": "123a",
+  "departement": "Grh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283d92d6c9232e3b66336a1"
+  },
+  "firstname": "Chedly",
+  "lastName": "ghany",
+  "mobileNumber": 44045888,
+  "mail": "chedly.ghany@gmail.com",
+  "password": "chedly123",
+  "entrepriseId": "123a",
+  "departement": "Informatique",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283d9426c9232e3b66336a3"
+  },
+  "firstname": "Karim",
+  "lastName": "bouhmid",
+  "mobileNumber": 21212115,
+  "mail": "karim.bouhmid@gmail.com",
+  "password": "karim123",
+  "entrepriseId": "123a",
+  "departement": "Grh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283d95d6c9232e3b66336a5"
+  },
+  "firstname": "Nada",
+  "lastName": "assaly",
+  "mobileNumber": 22654578,
+  "mail": "nada.assaly@gmail.com",
+  "password": "nada123",
+  "entrepriseId": "123b",
+  "departement": "Informatique",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283d96f6c9232e3b66336a7"
+  },
+  "firstname": "Slim",
+  "lastName": "adouni",
+  "mobileNumber": 29554665,
+  "mail": "slim.adouni@gmail.com",
+  "password": "slim123",
+  "entrepriseId": "123b",
+  "departement": "Finance",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283d9806c9232e3b66336a9"
+  },
+  "firstname": "Caroline",
+  "lastName": "sate",
+  "mobileNumber": 99654321,
+  "mail": "caroline.sat@gmail.com",
+  "password": "caroline123",
+  "entrepriseId": "123b",
+  "departement": "Grh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283d9906c9232e3b66336ab"
+  },
+  "firstname": "Carla",
+  "lastName": "Cerla",
+  "mobileNumber": 99654321,
+  "mail": "carla.cerla@gmail.com",
+  "password": "carla123",
+  "entrepriseId": "123b",
+  "departement": "Marketing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283d99e6c9232e3b66336ad"
+  },
+  "firstname": "jordi",
+  "lastName": "garcia",
+  "mobileNumber": 99552417,
+  "mail": "jordi.garcia@gmail.com",
+  "password": "jordi123",
+  "entrepriseId": "123c",
+  "departement": "Marketing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283d9b26c9232e3b66336af"
+  },
+  "firstname": "Alfredo",
+  "lastName": "cassani",
+  "mobileNumber": 22555444,
+  "mail": "alfredo.cassani@gmail.com",
+  "password": "alfredo123",
+  "entrepriseId": "123c",
+  "departement": "Informatique",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283d9c36c9232e3b66336b1"
+  },
+  "firstname": "Anna",
+  "lastName": "sendy",
+  "mobileNumber": 50123698,
+  "mail": "anna.sendy@gmail.com",
+  "password": "anna123",
+  "entrepriseId": "123c",
+  "departement": "Finance",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283d9d36c9232e3b66336b3"
+  },
+  "firstname": "Ala",
+  "lastName": "Cherny",
+  "mobileNumber": 20123698,
+  "mail": "ala.cherny@gmail.com",
+  "password": "ala123",
+  "entrepriseId": "123b",
+  "departement": "Informatique",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283d9da6c9232e3b66336b5"
+  },
+  "firstname": "Denya",
+  "lastName": "harison",
+  "mobileNumber": 55222333,
+  "mail": "denya.harrison@gmail.com",
+  "password": "denya123",
+  "entrepriseId": "123a",
+  "departement": "Grh",
+  "__v": 0
+}]

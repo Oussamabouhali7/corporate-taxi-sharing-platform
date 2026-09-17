@@ -1,0 +1,326 @@
+[{
+  "_id": {
+    "$oid": "6283e2672391a88ca24ce65a"
+  },
+  "clients": {
+    "$oid": "6283d67a6c9232e3b663369d"
+  },
+  "chauffeur_taxi": {
+    "$oid": "6283dc31d8e1b08fb1d5a40f"
+  },
+  "origins_Latitude": 36.851475,
+  "origins_Longitude": 10.147784,
+  "destination_Latitude": 36.835493,
+  "destination_Longitude": 10.23883,
+  "distance_Km": 11.7,
+  "dureetrajet_Mn": 17,
+  "cout_Dt": 4,
+  "date": {
+    "$date": {
+      "$numberLong": "1670685300000"
+    }
+  },
+  "evaluation_client": 5,
+  "evaluation_trajet": 4.5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283e3d42391a88ca24ce65c"
+  },
+  "clients": {
+    "$oid": "6283d9066c9232e3b663369f"
+  },
+  "chauffeur_taxi": {
+    "$oid": "6283dc31d8e1b08fb1d5a40f"
+  },
+  "origins_Latitude": 36.851475,
+  "origins_Longitude": 10.147784,
+  "destination_Latitude": 36.843076,
+  "destination_Longitude": 10.148613,
+  "distance_Km": 12.7,
+  "dureetrajet_Mn": 18,
+  "cout_Dt": 3,
+  "date": {
+    "$date": {
+      "$numberLong": "1670685300000"
+    }
+  },
+  "evaluation_client": 5,
+  "evaluation_trajet": 4.5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283e47b2391a88ca24ce65e"
+  },
+  "clients": {
+    "$oid": "6283d92d6c9232e3b66336a1"
+  },
+  "chauffeur_taxi": {
+    "$oid": "6283dc31d8e1b08fb1d5a40f"
+  },
+  "origins_Latitude": 36.851475,
+  "origins_Longitude": 10.147784,
+  "destination_Latitude": 36.83529,
+  "destination_Longitude": 10.14985,
+  "distance_Km": 14.7,
+  "dureetrajet_Mn": 20,
+  "cout_Dt": 3.5,
+  "date": {
+    "$date": {
+      "$numberLong": "1670685300000"
+    }
+  },
+  "evaluation_client": 5,
+  "evaluation_trajet": 4.5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283e58d2391a88ca24ce660"
+  },
+  "clients": {
+    "$oid": "6283d9426c9232e3b66336a3"
+  },
+  "chauffeur_taxi": {
+    "$oid": "6283dc43d8e1b08fb1d5a411"
+  },
+  "origins_Latitude": 36.846577,
+  "origins_Longitude": 10.198315,
+  "destination_Latitude": 36.809937,
+  "destination_Longitude": 10.173102,
+  "distance_Km": 7.3,
+  "dureetrajet_Mn": 13,
+  "cout_Dt": 4.5,
+  "date": {
+    "$date": {
+      "$numberLong": "1683742500000"
+    }
+  },
+  "evaluation_client": 5,
+  "evaluation_trajet": 4.5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283e5f32391a88ca24ce662"
+  },
+  "clients": {
+    "$oid": "6283d95d6c9232e3b66336a5"
+  },
+  "chauffeur_taxi": {
+    "$oid": "6283dc43d8e1b08fb1d5a411"
+  },
+  "origins_Latitude": 36.846577,
+  "origins_Longitude": 10.198315,
+  "destination_Latitude": 36.80565,
+  "destination_Longitude": 10.181496,
+  "distance_Km": 9,
+  "dureetrajet_Mn": 15,
+  "cout_Dt": 3.5,
+  "date": {
+    "$date": {
+      "$numberLong": "1683742500000"
+    }
+  },
+  "evaluation_client": 5,
+  "evaluation_trajet": 4.5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283e7292391a88ca24ce666"
+  },
+  "clients": {
+    "$oid": "6283d96f6c9232e3b66336a7"
+  },
+  "chauffeur_taxi": {
+    "$oid": "6283dc8c0e0c281f74974af8"
+  },
+  "origins_Latitude": 36.845843,
+  "origins_Longitude": 10.259496,
+  "destination_Latitude": 36.70565,
+  "destination_Longitude": 10.131496,
+  "distance_Km": 17,
+  "dureetrajet_Mn": 25,
+  "cout_Dt": 5,
+  "date": {
+    "$date": {
+      "$numberLong": "1677521700000"
+    }
+  },
+  "evaluation_client": 5,
+  "evaluation_trajet": 4.5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283e75f2391a88ca24ce668"
+  },
+  "clients": {
+    "$oid": "6283d9806c9232e3b66336a9"
+  },
+  "chauffeur_taxi": {
+    "$oid": "6283dc8c0e0c281f74974af8"
+  },
+  "origins_Latitude": 36.845843,
+  "origins_Longitude": 10.259496,
+  "destination_Latitude": 36.70565,
+  "destination_Longitude": 10.131496,
+  "distance_Km": 19,
+  "dureetrajet_Mn": 26,
+  "cout_Dt": 5,
+  "date": {
+    "$date": {
+      "$numberLong": "1677521700000"
+    }
+  },
+  "evaluation_client": 5,
+  "evaluation_trajet": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283e7a92391a88ca24ce66a"
+  },
+  "clients": {
+    "$oid": "6283d9906c9232e3b66336ab"
+  },
+  "chauffeur_taxi": {
+    "$oid": "6283dc8c0e0c281f74974af8"
+  },
+  "origins_Latitude": 36.845843,
+  "origins_Longitude": 10.259496,
+  "destination_Latitude": 36.75565,
+  "destination_Longitude": 10.171496,
+  "distance_Km": 21,
+  "dureetrajet_Mn": 28,
+  "cout_Dt": 4,
+  "date": {
+    "$date": {
+      "$numberLong": "1677521700000"
+    }
+  },
+  "evaluation_client": 4.5,
+  "evaluation_trajet": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283e8052391a88ca24ce66c"
+  },
+  "clients": {
+    "$oid": "6283d99e6c9232e3b66336ad"
+  },
+  "chauffeur_taxi": {
+    "$oid": "6283dcac0e0c281f74974afa"
+  },
+  "origins_Latitude": 36.645843,
+  "origins_Longitude": 10.259496,
+  "destination_Latitude": 36.95565,
+  "destination_Longitude": 10.271496,
+  "distance_Km": 12,
+  "dureetrajet_Mn": 15,
+  "cout_Dt": 3,
+  "date": {
+    "$date": {
+      "$numberLong": "1677521700000"
+    }
+  },
+  "evaluation_client": 5,
+  "evaluation_trajet": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283e83e2391a88ca24ce66e"
+  },
+  "clients": {
+    "$oid": "6283d9b26c9232e3b66336af"
+  },
+  "chauffeur_taxi": {
+    "$oid": "6283dcac0e0c281f74974afa"
+  },
+  "origins_Latitude": 36.645843,
+  "origins_Longitude": 10.259496,
+  "destination_Latitude": 36.95565,
+  "destination_Longitude": 10.271496,
+  "distance_Km": 15,
+  "dureetrajet_Mn": 18,
+  "cout_Dt": 5,
+  "date": {
+    "$date": {
+      "$numberLong": "1677521700000"
+    }
+  },
+  "evaluation_client": 4.5,
+  "evaluation_trajet": 4.5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283e8ed2391a88ca24ce670"
+  },
+  "clients": {
+    "$oid": "6283d9c36c9232e3b66336b1"
+  },
+  "chauffeur_taxi": {
+    "$oid": "6283dd150e0c281f74974b00"
+  },
+  "origins_Latitude": 36.834692,
+  "origins_Longitude": 10.23858,
+  "destination_Latitude": 36.45565,
+  "destination_Longitude": 10.371496,
+  "distance_Km": 7,
+  "dureetrajet_Mn": 12,
+  "cout_Dt": 4,
+  "date": {
+    "$date": {
+      "$numberLong": "1669138200000"
+    }
+  },
+  "evaluation_client": 5,
+  "evaluation_trajet": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283e90b2391a88ca24ce672"
+  },
+  "clients": {
+    "$oid": "6283d9d36c9232e3b66336b3"
+  },
+  "chauffeur_taxi": {
+    "$oid": "6283dd150e0c281f74974b00"
+  },
+  "origins_Latitude": 36.834692,
+  "origins_Longitude": 10.23858,
+  "destination_Latitude": 36.46565,
+  "destination_Longitude": 10.381496,
+  "distance_Km": 9,
+  "dureetrajet_Mn": 14,
+  "cout_Dt": 4,
+  "date": {
+    "$date": {
+      "$numberLong": "1669138200000"
+    }
+  },
+  "evaluation_client": 5,
+  "evaluation_trajet": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283e9362391a88ca24ce674"
+  },
+  "clients": {
+    "$oid": "6283d9da6c9232e3b66336b5"
+  },
+  "chauffeur_taxi": {
+    "$oid": "6283dd150e0c281f74974b00"
+  },
+  "origins_Latitude": 36.834692,
+  "origins_Longitude": 10.23858,
+  "destination_Latitude": 36.46565,
+  "destination_Longitude": 10.381496,
+  "distance_Km": 12.6,
+  "dureetrajet_Mn": 17,
+  "cout_Dt": 3.5,
+  "date": {
+    "$date": {
+      "$numberLong": "1669138200000"
+    }
+  },
+  "evaluation_client": 5,
+  "evaluation_trajet": 4,
+  "__v": 0
+}]
